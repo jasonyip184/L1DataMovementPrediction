@@ -9,6 +9,8 @@ Task is to predict the type of the first event that will happen in the next 1/3/
 
 2 -- Ask price increased
 
+A multi-label multi-class classification problem for an intra-day L1 order book data for a single security.
+
 ## Features
 timestamp  str  datetime string
 
@@ -29,3 +31,5 @@ bid_advance_time  float  seconds since bid price last advanced
 ask_advance_time  float seconds since ask price last advanced
 
 last_trade_time  float  seconds since last trade
+
+### Data is anonymized and details are confidential
