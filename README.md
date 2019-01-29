@@ -2,8 +2,11 @@
 
 ## Task
 Task is to predict the type of the first event that will happen in the next 1/3/5 seconds.
+
 0 -- No price change
+
 1 -- Bid price decreased
+
 2 -- Ask price increased
 
 ## Features
